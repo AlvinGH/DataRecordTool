@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "dataRecord.h"
 
 int main()
 {
